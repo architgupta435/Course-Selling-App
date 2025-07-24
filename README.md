@@ -6,7 +6,6 @@ This repository contains the backend for the **Course Selling App**, a robust an
 - **User Authentication**: Secure login and registration for users and admins.  
 - **Course Management**: Perform CRUD operations to manage courses.  
 - **Role-Based Access Control**: Ensures proper access levels for users and admins.  
-- **Payment Integration**: Supports payment gateways for seamless transactions.  
 - **API Endpoints**: Well-structured REST APIs for smooth communication with the frontend.  
 
 ## Tech Stack  
@@ -23,8 +22,8 @@ This repository contains the backend for the **Course Selling App**, a robust an
 
 ### Steps  
 1. **Clone the Repository**  
-   ```bash  
-   git clone https://github.com/profTanish/course-selling-app-backend
+   ```bash
+    git clone https://github.com/architgupta435/Course-Selling-App
    
 2. **Navigate to the Project Directory**
    ```bash
@@ -57,10 +56,7 @@ This repository contains the backend for the **Course Selling App**, a robust an
      http://localhost:5000
 8. **Test the APIs**
    - Use tools like Postman or cURL to test the API endpoints.
-  
-# License
-- This project is licensed under the MIT License.
 
 # Contat
 - For any questions or support, feel free to reach out:
-- GitHub: [profTanish](https://github.com/profTanish)
+- GitHub: https://github.com/architgupta435
